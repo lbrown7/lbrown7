@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lbrown7
 - 👀 I’m interested in coding games
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on a securly project
+- 💞️ I’m looking to collaborate on a security project
 - 📫 How to reach me lbrown7@cherrycreekschools.org
 
 <!---
